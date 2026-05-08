@@ -5,6 +5,8 @@ body {
   background-repeat: no-repeat;
   padding-top: 80px;
   padding-bottom: 80px;
+  /* 한글 단어 줄바꿈 */
+  word-break: keep-all;
 }
 
 img{
